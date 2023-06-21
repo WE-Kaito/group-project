@@ -52,4 +52,3 @@ function newStudentArray(students: Student[], id: string, firstName: string, las
 
 console.log(newStudentArray(allStudents, "987654", "Fritz", "Maier"));
 console.log(allStudents);
-
